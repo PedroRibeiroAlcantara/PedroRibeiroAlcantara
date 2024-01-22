@@ -1,5 +1,5 @@
 - 👋 Oi, Eu sou o Pedro Ribeiro
-- 👀 Estou em trasição da área Química para Defesa Cibernética!
+- 👀 Estou entrando na área de Cibersegunça!
 - 🌱 Estou me desenvolvendo com foco em Infraestrutura e Cloud
 - 📫 pedroribeiroalcantara@gmail.com
 - 🔗 www.linkedin.com/in/pedro-ribeiro-de-alcantara
