@@ -1,6 +1,6 @@
 - 👋 Oi, Eu sou o Pedro Ribeiro
 - 👀 Estou entrando na área de Cibersegunça!
-- 🌱 Estou me desenvolvendo com foco em Infraestrutura e Cloud
+- 🌱 EMe desenvolvendo com foco em Gestão de Identidades e Cloud
 - 📫 pedroribeiroalcantara@gmail.com
 - 🔗 www.linkedin.com/in/pedro-ribeiro-de-alcantara
 <!---
